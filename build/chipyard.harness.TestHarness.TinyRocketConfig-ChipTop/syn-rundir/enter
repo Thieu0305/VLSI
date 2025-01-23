@@ -1,0 +1,3 @@
+export CADENCE_HOME=""
+export CDS_LIC_FILE=""
+export GENUS_BIN="/DDI/DDI211/GENUS211/bin/genus"
